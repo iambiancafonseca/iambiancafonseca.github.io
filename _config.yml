@@ -14,19 +14,19 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: rooted.in/chaos # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: rooted.in/chaos is my digital dump where I share the mess I make while learning and breaking things in cybersecurity. Here, you’ll find writeups and random personal projects. Join me in making mistakes and figuring it out as we go! :p # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  A beginner-friendly cybersecurity blog sharing my journey through TryHackMe and beyond — with personal write-ups, detailed walkthroughs and open notes as I learn in public. Whether you're just starting out or leveling up your hacking skills, you'll find clear, hands-on insights, real-world practice and a space to grow together.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://iambiancafonseca.github.io"
 
 github:
-  username: github_username # change to your GitHub username
+  username: iambiancafonseca # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: Bianca Fonseca
+  email: bsnfonseca@gmail.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username # change to your Twitter homepage
