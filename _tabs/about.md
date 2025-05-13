@@ -4,9 +4,7 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-# Bianca Fonseca
-
-I am a curious and hardworking cybersecurity student pursuing the **CYBERUS Erasmus Mundus Joint Master’s**, specializing in **IoT Security**. I enjoy tackling complex problems, breaking them down and finding solutions. I am always eager to learn and grow in new fields!
+I'm Bianca Fonseca, a curious and hardworking cybersecurity student pursuing the **CYBERUS Erasmus Mundus Joint Master’s**, specializing in **IoT Security**. I enjoy tackling complex problems, breaking them down and finding solutions. I'm always eager to learn and grow in new fields!
 
 ---
 
