@@ -23,3 +23,11 @@ Thanks for stopping by!
 
 
 ![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczllb3dvenQ1ZnFmMTV2cWp1d3hjejhyejVqZHJmejYzY2FnMmUxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GuExKmluBdrrtAFwk/giphy.gif)
+
+<div style="text-align: center; font-size: 0.8em; opacity: 0.6;">
+  Join the <a 
+    data-eo-form-toggle-id="bf3ab678-3118-11f0-9f74-59c668a2a47a" 
+    href="#" 
+    style="color: #007acc; text-decoration: underline; cursor: pointer; opacity: 1;"
+  >mailing list</a> so you never miss me confidently running a command I absolutely shouldn’t.
+</div>
