@@ -31,7 +31,7 @@ Use the TryHackMe AttackBox or your own terminal.
 #### ❓ What will the following script output to the screen, `echo “BishBashBosh”`
 **Answer:**  BishBashBosh
 
-**Explanation:**  `echo` does exactly what it promises, it echoes your words back! ![](/assets/lib/echo.gif)
+**Explanation:**  `echo` does exactly what it promises, it echoes your words back! ![](/assets/images/echo.gif)
 
 ### Task 3
 
