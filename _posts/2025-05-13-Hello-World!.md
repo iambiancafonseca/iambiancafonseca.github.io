@@ -22,7 +22,7 @@ Whether you’re a fellow student, a very very experienced pentester peeking in 
 Thanks for stopping by!
 
 
-![Alt Text](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczllb3dvenQ1ZnFmMTV2cWp1d3hjejhyejVqZHJmejYzY2FnMmUxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GuExKmluBdrrtAFwk/giphy.gif)
+![](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExczllb3dvenQ1ZnFmMTV2cWp1d3hjejhyejVqZHJmejYzY2FnMmUxYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5GuExKmluBdrrtAFwk/giphy.gif)
 
 
 <div style="text-align: center; font-size: 0.8em; opacity: 0.6;">
