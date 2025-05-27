@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://iambiancafonseca.github.io/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/categories/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/archives/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/about/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/posts/Networking-Glossary/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/posts/Networking-Concepts/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/posts/Bash-Scripting/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/posts/Hello-World!/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/beginner/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/networking/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/tryhackme/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/bash/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/osi-model/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/scripting/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/tcp-ip/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/tcp/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/telnet/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/tags/udp/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/categories/glossary/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/categories/learning/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/categories/networking/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://iambiancafonseca.github.io/categories/scripting/</loc>
+  <lastmod>2025-05-27T21:57:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
