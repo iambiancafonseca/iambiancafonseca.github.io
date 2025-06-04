@@ -9,9 +9,13 @@ description: A handy collection of key terms, abbreviations and concepts related
 > ⚠️ **Heads up!** This is a live document. I’m actively adding and refining content as I post.
 
 ## **A**
+### ✏️ ARP
+**Address Resolution Protocol**
 ## **B**
 ## **C**
 ## **D**
+### ✏️ DHCP
+**Dynamic Host Configuration Protocol**
 ## **E**
 ## **F**
 ## **G**
