@@ -29,7 +29,7 @@ No special setup is required for this room. Just work through each task, answer 
 
 **Explanation:** Remember Dora?
 
-<img src="https://cartoon-clipart.co/amp/images/dora-boots3.png" width="300" height="200">
+<img src="https://cartoon-clipart.co/amp/images/dora-boots3.png" width="300" height="200" alt="Cartoon of Dora and Boots from Dora the Explorer">
 
 In our case, it stands for **D**iscover, **O**ffer, **R**equest and **A**cknowledge. These are the steps followed by DHCP. In the Discover step, the client sends a DHCPDISCOVER message to find out if there is any DHCP server(s) in the network (or not). In the Offer step, the server answers by including an available IP address for the client and other TCP configuration information in the DHCPOFFER message. In the Request step, the client sends a DHCPREQUEST message to the server, indicating the acceptance of the IP address and other TCP/IP configuration. And, at last, in the Acknowledge step, the server sends a DHCPACK message confirming that the IP address has indeed been assigned to the client.
 
